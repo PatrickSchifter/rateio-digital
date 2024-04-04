@@ -1,0 +1,11 @@
+DATABASE_URL="postgresql://postgres:1234@localhost:5432/radi?schema=public"
+
+EMAIL_FROM='teste@teste.com'
+EMAIL_SENDER='teste@teste.com'
+EMAIL_SENDER_PASS='tst143546!@#'
+EMAIL_SERVICE='gmail'
+
+URL_APP='http://localhost:3000/'
+SECRET_ID='4diztq2+nAMvsVSkrNd49w=='
+SECRET_JWT='4diztq2+nAMvsVSkrNd49w=='
+URL_FRONT='http://localhost:3000/'
